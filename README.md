@@ -17,11 +17,11 @@ A simple and interactive **Background Color Changer** built using **HTML**, **CS
 ## Installation & Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/vishxlshxrma/Background_Color_Changer.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd repository-name
+   cd Background\ Color\ Changer\
    ```
 3. Open `index.html` in a web browser.
 
